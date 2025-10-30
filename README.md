@@ -20,11 +20,10 @@ This project is a data mining and analysis pipeline using Airbnb listing and rev
 - Created interactive maps using latitude/longitude coordinates.
 - Generated word clouds for textual data (neighborhood, transit, description, and comments).
 - Compared temporal trends between 2019 and 2023 datasets.
-- Preprocessed raw review text by removing punctuation and special symbols, converting all text to lowercase
-  and removed stopwords
+- Preprocessed raw review text by removing punctuation and special symbols, converting all text to lowercase and removed stopwords
 - Annotated dataset with positive / neutral / negative sentiment labels using Hugging Face models.
 - Created training (80%) and testing (20%) datasets in .tsv format.
-- Extracted text features using TF0IDF and word embeddings
+- Extracted text features using TF0IDF and word embeddings.
 - Trained multiple classification models (e.g., Logistic Regression, Random Forest, Naive Bayes).
 - Evaluated and compared model performance on 2019 vs 2023 data.
 - Visualized overall and per-neighborhood sentiment distributions with histograms.
@@ -34,7 +33,7 @@ This project is a data mining and analysis pipeline using Airbnb listing and rev
 
 🧰 Technologies & Libraries
 
-- Language: Python 3.x
+- Language: Python 3
 - Framework: Jupyter Notebook
 - Data Manipulation: pandas, numpy
 - Sentiment Analysis: transformers (Hugging Face)
