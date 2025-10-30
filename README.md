@@ -6,9 +6,7 @@
 
 ## 💡 Overview
 
-This project is an end-to-end data mining and analysis pipeline using Airbnb listing and review data for the Athens region. The project is divided into two phases: (1) Data Exploration and a Similarity-Based Recommendation System, and (2) Advanced Text Analysis using contemporary techniques like Word Embeddings and Pre-trained Transformer Models.
-
-The analysis is performed on two separate datasets (2019 and 2023) to identify and compare trends over a four-year period.
+This project is a data mining and analysis pipeline using Airbnb listing and review data for the Athens region. The project is divided into two phases: (1) Data Exploration and a Similarity-Based Recommendation System, and (2) Advanced Text Analysis using contemporary techniques like Word Embeddings and Pre-trained Transformer Models. The analysis is performed on two separate datasets (2019 and 2023) to identify and compare trends over a four-year period.
 
 
 ---
